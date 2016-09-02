@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/ApplePicker.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/ApplePicker.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Apple.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PlayButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/AppleTree.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Basket.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/HighScore.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
